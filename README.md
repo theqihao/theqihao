@@ -1,7 +1,7 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=theqihao)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![theqihao's github stats](https://github-readme-stats.vercel.app/api?username=Ningsir&show_icons=true)](https://github.com/theqihao/)
+[![theqihao's github stats](https://github-readme-stats.vercel.app/api?username=Ningsir&show_icons=true)](https://github.com/theqihao/)![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is My Github Profile Trophy</h2></a>
