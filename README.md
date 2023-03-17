@@ -5,7 +5,8 @@
 https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao
 -->
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is My Github Profile Trophy ![visitors](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao&left_color=green&right_color=red)</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is My Github Profile Trophy ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=theqihao&column=8&theme=gruvbox&no-frame=true"/>
 </a>
