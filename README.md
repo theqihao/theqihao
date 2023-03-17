@@ -2,9 +2,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=theqihao)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![theqihao's github stats](https://github-readme-stats.vercel.app/api?username=Ningsir&show_icons=true)](https://github.com/theqihao/)
+https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao
 -->
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is My Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is My Github Profile Trophy ![visitors](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao&left_color=green&right_color=red)</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=theqihao&column=8&theme=gruvbox&no-frame=true"/>
 </a>
