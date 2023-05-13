@@ -6,7 +6,7 @@ https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao
 -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆  Hi, This is Qihao's Github Profile Trophy
-![](https://komarev.com/ghpvc/?username=theqihao&style=flat)
+![](https://komarev.com/ghpvc/?username=theqihao.theqihao&style=flat)
  <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao&left_color=red&right_color=green) -->
 </h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
